@@ -1,0 +1,20 @@
+abraham.ogol@andela.com
+git ogol254
+continous integration.. www.kenya-tech.com
+
+
+progressive web apps-PWA
+eg: twitter, facebook, ubber, linkedln, pinterest, instagram
+GITHUB.COM/misswayua/devfest-pwa
+google My First Progressive Web App
+
+
+Github-Maye Edwin PWAFire.org
+pwa example gdgeldoret.com, gdgmoi.com
+chrome:/apps- to see all pwa apps
+google codelabs-search for web-category(web)- your first pwa
+pwa demo- pwafireapp.firebaseapp.com 
+url parameters to avoid hacking
+
+
+
